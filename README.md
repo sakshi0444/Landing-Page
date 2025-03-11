@@ -4,7 +4,7 @@ A simple and responsive landing page built while learning web development using 
 
 ## 📸 Screenshots  
 
-![Landing Page Screenshot](screenshot1.png)  
+![Landing Page Screenshot]((https://github.com/sakshi0444/Landing-Page/blob/main/Screenshot%202025-03-11%20123301.png?raw=true))  
 *Homepage of the landing page*
 
 ![Responsive View](screenshot2.png)  
